@@ -1,0 +1,17 @@
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica.deps.json
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica.runtimeconfig.json
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica.runtimeconfig.dev.json
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica.dll
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.csprojAssemblyReference.cache
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.AssemblyInfo.cs
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.RazorAssemblyInfo.cache
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.RazorAssemblyInfo.cs
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.RazorTargetAssemblyInfo.cache
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.genruntimeconfig.cache
+C:\Users\oswal\source\repos\PruebaTecnica\bin\Debug\netcoreapp2.1\PruebaTecnica.pdb
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.dll
+C:\Users\oswal\source\repos\PruebaTecnica\obj\Debug\netcoreapp2.1\PruebaTecnica.pdb
